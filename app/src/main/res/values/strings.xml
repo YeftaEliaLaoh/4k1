@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WSADemo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="msg_back_to_exit">"Press again to exit."</string>
+    <string name="error_messages">error messages</string>
+
+</resources>
